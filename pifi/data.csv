@@ -1,0 +1,2 @@
+ID,UID,SERIAL,uid_heartbeat,uid_session,datetime_logged,src_mac,src_vendor,tgt_mac,rssi,probed_ssid,julianday_logged
+1,00000000418cc5e0-90990,00000000418cc5e0,00000000418cc5e0-43,00000000418cc5e0-6246,2016-03-14 09:12:44.735856,ff:ff:ff:ff:ff:ff,SOMEVENDOR,ff:ff:ff:ff:ff:ff,-83,SOMENSSID,2457461.8838511
